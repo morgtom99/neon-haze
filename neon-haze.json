@@ -1,0 +1,61 @@
+{
+  "title": "Neon Haze",
+  "description": "An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.",
+  "seedPalette": [
+    "#FC5C7D",
+    "#8A2BE2",
+    "#00BFFF",
+    "#00CED1",
+    "#9370DB",
+    "#FFA07A",
+    "#4682B4"
+  ],
+  "colorConcepts": [
+    [
+      "glitch",
+      "sunset",
+      "vapor"
+    ],
+    [
+      "statue",
+      "grid",
+      "synth"
+    ],
+    [
+      "sky",
+      "chrome",
+      "laser"
+    ],
+    [
+      "pool",
+      "wave",
+      "fluid"
+    ],
+    [
+      "dream",
+      "haze",
+      "echo"
+    ],
+    [
+      "dawn",
+      "digital",
+      "horizon"
+    ],
+    [
+      "screen",
+      "chill",
+      "retro"
+    ]
+  ],
+  "primary": "264 69% 60%",
+  "background": "260 25% 12%",
+  "accent": "210 15% 18%",
+  "imageStyle": {
+    "complexity": "minimal",
+    "style": "abstract",
+    "detail": "loose"
+  },
+  "id": "theme-neon-haze",
+  "repository": "neon-haze",
+  "owner": "morgtom99"
+}
