@@ -53,9 +53,12 @@
   "imageStyle": {
     "complexity": "minimal",
     "style": "abstract",
-    "detail": "loose"
+    "detail": "loose",
+    "dimension": "flat",
+    "lighting": "soft"
   },
   "id": "theme-neon-haze",
   "repository": "neon-haze",
-  "owner": "morgtom99"
+  "owner": "morgtom99",
+  "branch": "main"
 }
