@@ -55,10 +55,20 @@
     "style": "abstract",
     "detail": "loose",
     "dimension": "flat",
-    "lighting": "soft"
+    "lighting": "soft",
+    "texture": "none"
   },
   "id": "theme-neon-haze",
   "repository": "neon-haze",
   "owner": "morgtom99",
-  "branch": "main"
+  "branch": "main",
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
