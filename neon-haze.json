@@ -70,5 +70,42 @@
     "",
     "",
     ""
+  ],
+  "conceptPrompts": [
+    [
+      "[Subject: GLITCH]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #FC5C7D.",
+      "[Subject: SUNSET]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #FC5C7D.",
+      "[Subject: VAPOR]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #FC5C7D."
+    ],
+    [
+      "[Subject: STATUE]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #8A2BE2.",
+      "[Subject: GRID]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #8A2BE2.",
+      "[Subject: SYNTH]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #8A2BE2."
+    ],
+    [
+      "[Subject: SKY]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #00BFFF.",
+      "[Subject: CHROME]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #00BFFF.",
+      "[Subject: LASER]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #00BFFF."
+    ],
+    [
+      "[Subject: POOL]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #00CED1.",
+      "[Subject: WAVE]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #00CED1.",
+      "[Subject: FLUID]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #00CED1."
+    ],
+    [
+      "[Subject: DREAM]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #9370DB.",
+      "[Subject: HAZE]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #9370DB.",
+      "[Subject: ECHO]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #9370DB."
+    ],
+    [
+      "[Subject: DAWN]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #FFA07A.",
+      "[Subject: DIGITAL]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #FFA07A.",
+      "[Subject: HORIZON]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #FFA07A."
+    ],
+    [
+      "[Subject: SCREEN]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #4682B4.",
+      "[Subject: CHILL]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #4682B4.",
+      "[Subject: RETRO]. A high-fidelity abstract aesthetic. Theme: Neon Haze. Aesthetic Context: An abstract, minimalist aesthetic featuring glowing neon gradients, simplified geometric forms, and a dreamy, nostalgic ambiance.. Parameters: flat dimension, soft lighting, none texture, minimal complexity, loose level of detail. Primary color: #4682B4."
+    ]
   ]
 }
